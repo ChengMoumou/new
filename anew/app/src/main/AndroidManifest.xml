@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.anew">
 
+    <uses-permission android:name="android.permission.VIBRATE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,14 +12,46 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Anew">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            android:name=".ForgetPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FindPasswordActivity"
+            android:exported="true" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <category android:name="android.intent.category.zo  " />
+        </intent-filter>
         </activity>
+        <activity
+            android:name=".BindActivity"
+            android:exported="false" />
+
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".BroadTestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TestIntentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false">
+
+        </activity>
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
     </application>
 
 </manifest>

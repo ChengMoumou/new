@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/new/anew/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/new/anew/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/new/anew/app/src/main/res/drawable/btn_nine_selector.xml" value="0.20364583333333333" />
+        <entry key="..\:/new/anew/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21979166666666666" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_bind.xml" value="0.1105072463768116" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_broad_test.xml" value="0.10729166666666666" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_find_password.xml" value="0.14583333333333334" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_forget_password.xml" value="0.22" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_main2.xml" value="0.17346014492753623" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_main3.xml" value="0.33" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_main4.xml" value="0.18" />
+        <entry key="..\:/new/anew/app/src/main/res/layout/activity_test_intent.xml" value="0.12364130434782608" />
+        <entry key="..\:/new/anew/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1625" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
